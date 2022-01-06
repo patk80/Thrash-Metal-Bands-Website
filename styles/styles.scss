@@ -1,3 +1,9 @@
+h1 {
+    color: purple;
+    text-decoration: underline;
+    padding-top: 60px;
+}
+
 h2 {
     color: red;
     text-decoration: underline;
@@ -10,10 +16,6 @@ h3 {
     padding-top: 60px;
 }
 
-// h4 {
-//     font-size: 16px;
-// }
-
-img {
+.album-cover {
     width: 100%;
 }
